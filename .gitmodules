@@ -1,0 +1,3 @@
+[submodule "Courses/Wiki_FullStackCrs"]
+	path = Courses/Wiki_FullStackCrs
+	url = https://github.com/richMetellus/Wiki_FullStackCrs.git

@@ -1,5 +1,5 @@
-Topic Template Title 
-###################################
+Wed Development 
+################
 
 .. only:: personal
 
@@ -18,9 +18,8 @@ Courses
 *********
 
 .. toctree::
-    :caption: Journal
+    :caption: Web Development Courses
     :glob:
-    :numbered:
     :maxdepth: 1
 
-    Courses/CourseName_git/content
+    Courses/Wiki_FullStackCrs/content
