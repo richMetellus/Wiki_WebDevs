@@ -1,0 +1,422 @@
+.. include:: ../relevant_urls.rst
+
+How To Build a Website with WordPress and Hosting with Hostinger 
+####################################################################
+
+| Date: 01/18/2016
+| Last Updated: 01/18/2016
+
+
+Context 
+**********
+
+This is very informative video I came across and I wanted to transcribe and 
+note relevant sections of that video.
+
+
+Materials
+************
+
+* Video link: `How To Build a Website with WordPress 2024 | YouTube`_ 
+* Publish by: ``Charlie Chang``
+* Premiered Date: ``May 22, 2024``
+* Host: Charlie Chang
+
+.. raw:: html
+
+    <iframe width="860" height="415" 
+    src="https://www.youtube.com/embed/184SdvzLwzs?si=HTyrrE8H1p4gxpaO" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard*write; encrypted*media; gyroscope; picture*in*picture; web*share" 
+    referrerpolicy="strict*origin*when*cross*origin" 
+    allowfullscreen></iframe>
+
+Note/Transcription
+********************
+
+**Goals  & Objectives**
+
+1. Show you how to make a killer website in just a few simple steps.
+
+    * most concise, simple and affordable way to build a website.
+    * no coding knowledge necessary.
+
+
+Step 1: Get Hosting 
+======================
+
+The first step is to get hosting.
+
+* This is a mandatory step. 
+* This tutorial use Hostinger.
+
+    * cheap: $2.99/mo - 3.99/mo
+    * use ``CHARLIECHANG`` code for more discount at checkout.
+
+
+1. Use the affiliate link from the creator `Hostinger Charlie Chang Affiliate link`_
+
+    * This should bring you to the hostinger website. 
+    * at the time of the video, 
+        
+        * the premium plan was $2.99/mo
+        * the business plan was $3.99/mo
+        * the cloud startup plan was $9.99/mo
+    
+    * at the time of transcription, this was the pricing:
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_1.0_Pricing.png
+            :width: 850px
+
+#. Click on the business plan
+#. Next you will have to choose a time period (1 mo, 12 mo, 24 mo, 48 mo).
+
+    .. note:: Charlie recommended at least 12 months since you will be able to 
+        lock in this super low discount and the plan will renew at a lower price 
+        at the end of the terms.
+
+        * go with the 24 months or the 48 months option.
+
+#. Create an account.
+
+    * emails
+    * Password 
+
+    or use google logging.
+
+#. Select payment method  
+
+    * credit card, google pay, paypal, alipay, coingate are accepted.
+
+#. Enter the coupon code ``CHARLIECHANG``
+#. Submit secure payment.
+
+Step 2: Build Website with WordPress 
+=======================================
+
+Start building your website:
+
+#. On the hostinger dasbord, click on ``Hosting`` 
+    
+    * you will have something similar to this
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.0_HostingerDashboard.png
+        :width: 850px 
+
+#. Click on ``Setup`` on the *Business Web Hosting* card.
+#. Then this will ask you if you want to *Create* or *Migrate* a website, select
+   ``Create`` > ``Next``
+    
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.1_HostingerDashboard_CreateOrMigrate.png
+        :width: 850px 
+    
+#. On the next page, select ``Wordpress with AI``
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.3_HostingerDashboard_Wordpress.png
+        :width: 850px 
+    
+    .. note:: Since this video is specifically about WordPress.org website, we use 
+        the first option, but if you want to build a website without all the 
+        functionality of WordPress then you can also go with the **Hostinger Website Builder**.
+
+        * The **Hostinger Website Builder** is a little less customizable since 
+          you don't have **WordPress** but it's easier.
+
+#. Click on ``Create with WordPress``
+#. Next, you will need to create an WordPress admin account. Fill in the details 
+   for this account.
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.4_HostingerDashboard_WordpressAdminAccount.png
+        :width: 850px
+
+#. Next, select the type of website you want to build then > Next
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.3_HostingerDashboard_WordpressAdminAccount.png
+        :width: 850px 
+    
+    * In this tutorial the website type is ``Portfolio``
+    * In my use case, the wesbsite type is ``Buisiness and services``
+
+        .. image:: ./_images/JNL-003.0_KSTWebsite_1.0_HostingerKST_WebsiteType.png
+            :width: 650px 
+
+#. For your website you will have options such as **Pre-build templates** or **Standard themes**
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.4_HostingerDashboard_PrebuildTheme.png
+        :width: 850px 
+    
+    * Selected *Pre-build themes* as it easier for the purpose of the tutorial.
+
+    By the time I did mine,
+
+    .. image:: ./_images/JNL-003.0_KSTWebsite_1.1_HostingerKST_Pre-buildWebsitesAndThemes.png
+        :width: 850px
+
+#. On the next page, it will show you different template and theme to chose from, 
+   hover around and select the following template powered by Astra
+    
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.5_HostingerDashboard_ChooseTemplate.png
+        :width: 850px
+
+    I. Preview the template 
+    #. Then select ``Use this template``
+
+#. Next, chose the pre-selected plugins
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.6_HostingerDashboard_Pluggins.png
+        :width: 850px 
+    
+    I. Select the recommended plugins. you can always add or remove later.
+
+#. Select the content for your business.
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.7_HostingerDashboard_ContentGeneration.png
+        :width: 850px 
+
+#. Next, select a domain name. 
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.8_HostingerDashboard_DomainNameSelection.png
+        :width: 850px 
+
+#. Next, Confirm your contact detail to finish the registration and click ``Finish Registration``
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.9_HostingerDashboard_ContactDetails.png
+        :width: 850px 
+
+#. Select your target audience geographical location.
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.10_HostingerDashboard_TargetAudience.png
+        :width: 850px 
+    
+    * After this step it will save wordpress on our website. 2-3 minutes.
+
+#. The Hostinger Panel view will provide you ways 
+   to managed your hosting services. Click on the *Websites* tab, 
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_2.11_HostingerDashboard_WebsiteDashboard.png
+        :width: 850px 
+
+    * There you can manage your domain, plan to setup your free email
+    * Under *Security* > *SSL*, you can manage SSL certificate which is already installed.
+
+#. On the *Websites* dashboard, click on the ``Admin Panel``.
+
+    * This is going to take us to the actual WordPress admin dashboard.
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.0_HostingWordPressBuild_WebsiteBuilder.png
+        :width: 850px 
+
+
+#. On the previous dashboard, click on *Plugins* >
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.1_HostingWordPressBuild_Plugins.png
+        :width: 850px 
+    
+    .. note:: These are going to be the plugins on your website. Charlie does 
+        not recommend having too many plugins as they may bug down and slow 
+        down your website.
+
+        * If there is any you are not using you can deactivate it or remove it.
+        * if you want to add more you can always do that later by clicking on 
+          ``Plugins`` > ``Add new plugins``
+
+
+#. Add the plugins recommended:
+
+    1. *rankmath* - this is a very popular SEO tool
+    #.
+
+
+    * Click ``Install Now`` 
+    * Click ``Activate``
+
+    .. note:: you can delete other SEO plugins if you wan to. 
+
+#. On the WordPress dashboard, go to *Settings* > *Permalinks* and make 
+   sure **Post name** is selected. 
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.2_HostingWordPressBuild_Permalinks.png
+        :width: 850px 
+    
+    .. note:: 
+
+#. Still on the WordPress admin dashboard, click on *Appearance** > *Themes*
+
+    * our current theme is *Astra*, we can always change the theme by clicking 
+      on the ``+`` ``Add New Theme`` button and install the theme that match 
+      closely to your business.
+    
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.3_HostingWordPressBuild_ThemeSelection.png
+        :width: 850px 
+
+    I. stick with your theme. In our case it's Astra. 
+    #. Click on Customize
+
+        * You will have this new view 
+
+            .. image:: ./_images/JNL-002.0_WordPressCharlie_3.4.0_HostingWordPressBuild_ThemeCustomization.png
+                :width: 850px
+
+            .. note:: You can change the design element but it is not recommended.
+
+#. On the the WordPress view, you can edit the home page of your website. 
+
+    * Click on *Pages* 
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.5.0_HostingWordPressBuild_PageEditor.png
+            :width: 850px 
+
+    * Click on the *Home* page that is already created.
+
+    .. note:: By default, this is going to use the built-in WordPress *Block editor* 
+        but later we will use a popular builder call *Elementor*
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.5.1_HostingWordPressBuild_PageEditor_BlockBuilder.png
+            :width: 850px
+    
+    I. To edit, you can click on any of the "container"  or element you 
+       want to change.
+
+
+        * you can  select and replace the text, change the alignment, the sizing 
+          of the text, font, or even ask AI to write the text for us.
+        
+        * Click on a button You can change the style of the button 
+
+            .. image:: ./_images/JNL-002.0_WordPressCharlie_3.5.2_HostingWordPressBuild_PageEditor_BlockBuilder_ChangeButton.png
+                :width: 850px
+        
+        * You can click on the icon and chose any icon from the Icon library.
+
+            .. image:: ./_images/JNL-002.0_WordPressCharlie_3.5.3_HostingWordPressBuild_PageEditor_BlockBuilder_Icons.png
+                :width: 850px 
+        
+        * You can create more block, by click on ``+`` and add image or anything.
+
+            .. image:: ./_images/JNL-002.0_WordPressCharlie_3.5.4_HostingWordPressBuild_PageEditor_BlockBuilder_AddNewBlock.png
+                :width: 850px
+        
+        * Go and play with it.
+        * if there is a block you don't want,  you can click on it and select the 
+          the vertical 3 dots and click delete. 
+
+            .. image:: ./_images/JNL-002.0_WordPressCharlie_3.5.5_HostingWordPressBuild_PageEditor_BlockBuilder_DeleteBlock.png
+                :width: 850px
+
+    #. Once you're done with customizing your design, click on ``Update`` to save the 
+       design.
+
+#. Back on the WordPress admin panel, *Plugins* > *Add New Plugin*
+
+    I. Search for *Elementor*
+    #. Click on ``Install Now``
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.0_HostingWordPressBuild_PageEditor_Elementor_Install.png
+        :width: 850px 
+    
+    .. note:: Elementor is free and there is also an *elementor pro* you can also buy.
+
+#. Back to *Pages* > ``Add New Page`` 
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.1_HostingWordPressBuild_PageEditor_Elementor_NewPage.png
+        :width: 850px
+    
+    I. Click on ``Edit with Elementor``
+
+        There  you will be able to use Elementor drag and drop web builder feature:
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.2_HostingWordPressBuild_Elementor_Edit.png
+            :width: 850px 
+
+#. Edit the new page with elementor 
+
+    I. If you want a heading, drag and drop the ``T Heading`` widget and change 
+       the text to say "Blog"
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.3_HostingWordPressBuild_Elementor_HeaderWidget.png
+            :width: 850px 
+
+        * You can the size, the style using the edit menu on the left hand side. 
+    
+    #. You can click on ``+`` button on the widget to bring up *FlexBox* 
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.3_HostingWordPressBuild_Elementor_FlexBox.png
+            :width: 850px 
+        
+        A. Select Flexbox
+        #. Next, Select Flexbox structure you want 
+
+            .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.4_HostingWordPressBuild_Elementor_FlexBoxStructure.png
+                :width: 500px 
+            
+    
+    #. On the FlexBox click the ``+`` icon so You can drag and drop element into 
+       the any the FlexBox column say an image. 
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.5_HostingWordPressBuild_Elementor_FlexBoxAddElement.png
+            :width: 850px 
+    
+    #. Repeat for the other FlexBox column, there you can add *Text Editor* widget
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.6_HostingWordPressBuild_Elementor_FlexBoxTextEditor.png
+            :width: 850px 
+
+        A. Add more text 
+
+            .. image:: ./_images/JNL-002.0_WordPressCharlie_3.6.6.1_HostingWordPressBuild_Elementor_FlexBoxTextEditor_AddMoreTxt.png
+                :width: 600px
+    
+    #. You can add more widget, more FlexBox. 
+    #. You can also re-arrange the widgets by dragging and drop their order of 
+       Appearance.
+
+#. Click ``Publish`` > Apply to get out of the *Elementor builder* 
+#. Change the URL permalink to something more meaningful 
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.7.0_HostingWordPressBuild_NewPage_UrlChange.png
+        :width: 850px 
+    
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.7.1_HostingWordPressBuild_NewPage_UrlChange.png
+        :width: 850px 
+
+    * you can preview the page by clicking on the preview page 
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.7.2_HostingWordPressBuild_NewPage_PreviewPage.png
+
+Build the Main Menu of the website 
+
+#. On the WordPress admin panel, click on *Appearance* > *Menus*
+#. If you wan to add the page you just build, you can add the page label 
+
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.8.0_HostingWordPressBuild_Menus.png
+        :width: 850px 
+    
+    I. change elementor element to Blog like we did
+    #. You can drag and drop to change the order. 
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.8.1_HostingWordPressBuild_Menus.png
+    
+    #. Click on save menu. 
+    #. You can preview the website to see the new menu you added. 
+
+        .. image:: ./_images/JNL-002.0_WordPressCharlie_3.8.2_HostingWordPressBuild_Menus.png
+            :width: 600px
+
+#. Optimize your website for both desktop and mobile. 
+
+    I. You can always preview the website and change the view to Mobile.
+
+    
+    .. image:: ./_images/JNL-002.0_WordPressCharlie_3.9.0_HostingWordPressBuild_MobileAndDesktopView.png
+        :width: 850px
+
+    * You can edit in the mobile view accordingly.
+ 
+Summary 
+**********
+
+WordPress is great 
+
+* is flexible 
+* easy to use 
+* powerful

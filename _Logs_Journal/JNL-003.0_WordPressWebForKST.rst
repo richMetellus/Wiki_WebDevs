@@ -1,0 +1,20 @@
+WordPress Website For KST
+#############################
+
+
+
+#. Select template 
+#. Do domain registration 
+#. Select target audience 
+
+    * United States, Massachusetts.
+
+#. Finish WordPress creation.
+
+.. important:: As part of the domain creation, you have to verify your email. So 
+    remember to do that otherwise you may face domain name suspension.
+
+Start building your website using the dashboard
+
+.. image:: ./_images/JNL-003.0_KSTWebsite_2.0_HostingerKSTDashboard.png
+    :width: 850px 

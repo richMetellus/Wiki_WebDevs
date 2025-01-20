@@ -1,4 +1,4 @@
-Wed Development 
+Web Development 
 ################
 
 .. only:: personal
