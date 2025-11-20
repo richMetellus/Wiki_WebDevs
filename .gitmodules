@@ -1,3 +1,6 @@
 [submodule "Courses/Wiki_FullStackCrs"]
 	path = Courses/Wiki_FullStackCrs
 	url = https://github.com/richMetellus/Wiki_FullStackCrs.git
+[submodule "Wiki_WordPress"]
+	path = Wiki_WordPress
+	url = https://github.com/richMetellus/Wiki_WordPress.git

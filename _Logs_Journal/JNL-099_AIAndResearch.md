@@ -1,5 +1,6 @@
 # AI and Research
 
+(web-tech-AI-Answer-target)=
 ## Learning Path For Web and Mobile development
 
 :::{card}
