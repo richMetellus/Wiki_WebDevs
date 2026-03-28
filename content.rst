@@ -1,3 +1,5 @@
+.. include:: ./Wiki_WordPress/relevant_urls.rst
+
 Web Development 
 ################
 
@@ -63,13 +65,13 @@ How to find which tools developer use to create their website:
           
           * support for Wordpress (Content Management System) + Elementor (Page builder)
     
-    .. seealso:: 
-        
-        WordPress accounts for roughly 43.5% to 43.6% of all websites and a 
-        dominant 62.5% of the CMS market share, as of early 2025.
-        
-        * `Wordpress Statistics`_
-        * `Wordpress MarketShare`_
+   .. seealso:: 
+       
+       WordPress accounts for roughly 43.5% to 43.6% of all websites and a 
+       dominant 62.5% of the CMS market share, as of early 2025.
+       
+       * `Wordpress Statistics`_
+       * `Wordpress MarketShare`_
 
 #. Wix, 
 #. Shopify, etc..
@@ -116,5 +118,3 @@ Subtopics & Courses
       :maxdepth: 1
 
       _Logs_Journal/JNL-*
-
-.. include:: relevant_urls.rst
