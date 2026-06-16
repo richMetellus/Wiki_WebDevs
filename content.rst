@@ -94,18 +94,6 @@ article:
 To increase your skills and follow DIY approach, then I started to look at course 
 online and created new notebook to document the journey.
 
-Subtopics & Courses 
-**********************
-
-.. toctree::
-    :caption: Web Development Courses
-    :glob:
-    :maxdepth: 1
-
-    Courses/Wiki_FullStackCrs/content
-    Wiki_WordPress/content
-
-
 .. only:: personal
 
    Journal and Log
@@ -117,4 +105,16 @@ Subtopics & Courses
       :numbered:
       :maxdepth: 1
 
-      _Logs_Journal/JNL-*
+      _Logs_Journal/content
+      
+Subtopics & Courses 
+**********************
+
+.. toctree::
+    :caption: Web Development Courses
+    :glob:
+    :maxdepth: 1
+
+    Wiki_WordPress/content
+    Courses/Wiki_FullStackCrs/content
+
